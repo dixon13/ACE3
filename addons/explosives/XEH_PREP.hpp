@@ -34,6 +34,8 @@ PREP(onInventoryChanged);
 
 PREP(openTimerSetUI);
 
+PREP(placeExplosiveAIWaypoint);
+
 PREP(placeExplosive);
 PREP(removeFromSpeedDial);
 
